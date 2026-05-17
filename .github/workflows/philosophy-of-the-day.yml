@@ -3,6 +3,9 @@ name: Update philosophy of the day
 on:
   schedule:
     - cron: "0 17 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
