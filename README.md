@@ -28,7 +28,7 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Do not bite at the bait of pleasure, till you know there is no hook beneath it." — Thomas Jefferson
+> "Learn from the rejection and turn it into an opportunity!" — Mary Engelbreit
 
 _Last updated: 2026-05-17_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
