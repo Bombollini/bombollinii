@@ -28,7 +28,7 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "The busy man is never wise and the wise man is never busy." — Lin Yutang
+> "Do not bite at the bait of pleasure, till you know there is no hook beneath it." — Thomas Jefferson
 
 _Last updated: 2026-05-17_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
