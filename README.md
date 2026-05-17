@@ -1,17 +1,23 @@
-<h1 align="center">Hi there, I'm Bombollini 👋</h1>
-
-<hr>
+<h1 align="center">Hey, I'm Rizhan ⚡</h1>
 
 <p align="center">
-🚀 Freelancer • 💻 Fullstack Developer • ☕ Founder of Brewasa
+  Building digital products, helping local businesses grow, and brewing ideas one coffee at a time ☕
 </p>
 
 <br>
 
-## Personal Stuffs:
+### 🧠 About Me
 
-- 🧑‍💻 I'm a freelance developer building digital solutions for UMKM across Indonesia  
+- 💼 Freelance developer from Indonesia  
+- 🏪 Mostly working with UMKM projects & business digitalization  
 - 🚀 Founder of <b>CodeVision Indonesia</b>  
-- ☕ I also run my own cafe called <b>Brewasa</b>  
-- 🌱 Currently focusing on Web Development, Flutter, and Backend Systems  
-- ⚡ I love turning ideas into real products  
+- ☕ Owner of <b>Brewasa Coffee</b>  
+- 🛠️ Passionate about crafting modern web & mobile experiences  
+- 🌙 Usually coding late at night with music on repeat  
+
+<br>
+
+### ⚙️ Current Focus
+
+```txt
+Web Development • Mobile Apps • POS Systems • Business Automation
