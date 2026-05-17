@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const apiUrl = "https://api.quotable.io/random?tags=philosophy";
+const apiUrl = "https://zenquotes.io/api/random";
 const readmePath = path.join(__dirname, "..", "README.md");
 
 const startMarker = "<!-- PHILOSOPHY_OF_THE_DAY:START -->";
@@ -19,9 +19,11 @@ async function fetchQuote() {
   }
 
   const data = await response.json();
+  const first = Array.isArray(data) ? data[0] : null;
+
   return {
-    content: data.content?.trim() || "Stay curious, stay humble.",
-    author: data.author?.trim() || "Unknown",
+    content: first?.q?.trim() || "Stay curious, stay humble.",
+    author: first?.a?.trim() || "Unknown",
   };
 }
 
