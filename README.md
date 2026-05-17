@@ -28,9 +28,7 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-
-> "Stay curious, stay humble." — Unknown
+> "If I cannot do great things. I can do small things in a great way." — Martin Luther King, Jr.
 
 _Last updated: 2026-05-17_
-
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
