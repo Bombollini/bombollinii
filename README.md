@@ -28,7 +28,7 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "If I cannot do great things. I can do small things in a great way." — Martin Luther King, Jr.
+> "The busy man is never wise and the wise man is never busy." — Lin Yutang
 
 _Last updated: 2026-05-17_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
