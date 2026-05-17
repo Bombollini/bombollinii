@@ -34,6 +34,14 @@ _Last updated: 2026-05-17_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 
+### 🌐 Socials
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bombollini)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizhan_m/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/460661471773458442)
+
+<br>
+
 ### 🧱 Tech Stack
 
 **Languages & Frameworks**
