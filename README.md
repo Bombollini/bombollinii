@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided." — Tony Robbins
+> "Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami
 
-_Last updated: 2026-05-25_
+_Last updated: 2026-05-26_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 
