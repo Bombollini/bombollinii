@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "To be fully alive is to feel that everything is possible." — Eric Hoffer
+> "Attitude, not aptitude, determines altitude." — Zig Ziglar
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 
